@@ -21,8 +21,11 @@ Part 2 — Processing to Warehouse
 ## 📂 Project Structure
 
 ├── Part_1_Scraping_to_Staging.ipynb
+|
 ├── Part_2_Processing_to_Warehouse.ipynb
+|
 ├── requirements.txt
+|
 └── README.md
 
 ## ⚙️ Technologies Used
